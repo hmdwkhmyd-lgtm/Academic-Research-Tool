@@ -1,0 +1,5 @@
+streamlit
+wikipedia
+deep_translator
+python-docx
+requests
